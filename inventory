@@ -7,6 +7,8 @@ prod2
 prod3
 sales1
 sales2
-it	ansible_ssh_private_key_file=/root/.ssh/id_sales
-it2	ansible_ssh_private_key_file=/root/.ssh/id_sales
+it	
+it2	
 
+
+#ansible_ssh_private_key_file=/root/.ssh/id_sales
